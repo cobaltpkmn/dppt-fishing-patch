@@ -28,6 +28,15 @@ A US/FR Pokémon DPPt rom
 
 4. Patch and ENJOY !
 
+### Fishing Encounters Rates
+
+| Fishing encounters rates | Base Rate DPPpt | With Suction Cup / Sticky Hold | Base Rate (DP Route 222) | With Suction Cup / Sticky Hold | Base Rate (Pt Victory Road) | With Suction Cup / Sticky Hold |
+|-------------------------|----------------|--------------------------------|---------------------------|-------------------------------|------------------------------|--------------------------------|
+| Old Rod                | 25%            | 50%                           | 45%                      | 90%                          | 25%                         | 50%                           |
+| Good Rod               | 50%            | 100%                          | 70%                      | 100%                         | 55%                         | 100%                          |
+| Super Rod              | 75%            | 100%                          | 95%                      | 100%                         | 75%                         | 100%                          |
+
+
 <!-- CONTACT -->
 ## Credits
 
